@@ -1,0 +1,6 @@
+E:\LinuxHolder\t1p\Links2JSON\bin\Debug\Links2JSON.exe.config
+E:\LinuxHolder\t1p\Links2JSON\obj\Debug\Links2JSON.csprojResolveAssemblyReference.cache
+E:\LinuxHolder\t1p\Links2JSON\bin\Debug\Links2JSON.exe
+E:\LinuxHolder\t1p\Links2JSON\bin\Debug\Links2JSON.pdb
+E:\LinuxHolder\t1p\Links2JSON\obj\Debug\Links2JSON.exe
+E:\LinuxHolder\t1p\Links2JSON\obj\Debug\Links2JSON.pdb

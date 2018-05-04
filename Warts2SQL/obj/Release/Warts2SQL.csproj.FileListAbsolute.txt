@@ -1,0 +1,6 @@
+E:\LinuxHolder\t1p\Warts2SQL\bin\Release\Warts2SQL.exe.config
+E:\LinuxHolder\t1p\Warts2SQL\bin\Release\Warts2SQL.exe
+E:\LinuxHolder\t1p\Warts2SQL\bin\Release\Warts2SQL.pdb
+E:\LinuxHolder\t1p\Warts2SQL\bin\Release\libglpk-cli.dll
+E:\LinuxHolder\t1p\Warts2SQL\obj\Release\Warts2SQL.exe
+E:\LinuxHolder\t1p\Warts2SQL\obj\Release\Warts2SQL.pdb

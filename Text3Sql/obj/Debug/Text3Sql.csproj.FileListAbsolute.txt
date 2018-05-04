@@ -1,0 +1,6 @@
+E:\LinuxHolder\t1p\Text3Sql\bin\Debug\Text3Sql.exe.config
+E:\LinuxHolder\t1p\Text3Sql\bin\Debug\Text3Sql.exe
+E:\LinuxHolder\t1p\Text3Sql\bin\Debug\Text3Sql.pdb
+E:\LinuxHolder\t1p\Text3Sql\obj\Debug\Text3Sql.csprojResolveAssemblyReference.cache
+E:\LinuxHolder\t1p\Text3Sql\obj\Debug\Text3Sql.exe
+E:\LinuxHolder\t1p\Text3Sql\obj\Debug\Text3Sql.pdb

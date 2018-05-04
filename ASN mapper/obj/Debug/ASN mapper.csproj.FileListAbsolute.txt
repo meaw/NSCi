@@ -1,0 +1,8 @@
+E:\LinuxHolder\t1p\ASN mapper\bin\Debug\ASN mapper.exe.config
+E:\LinuxHolder\t1p\ASN mapper\bin\Debug\ASN mapper.exe
+E:\LinuxHolder\t1p\ASN mapper\bin\Debug\ASN mapper.pdb
+E:\LinuxHolder\t1p\ASN mapper\obj\Debug\ASN mapper.csprojResolveAssemblyReference.cache
+E:\LinuxHolder\t1p\ASN mapper\obj\Debug\ASN mapper.exe
+E:\LinuxHolder\t1p\ASN mapper\obj\Debug\ASN mapper.pdb
+E:\LinuxHolder\t1p\ASN mapper\bin\Debug\Whois.dll
+E:\LinuxHolder\t1p\ASN mapper\bin\Debug\Whois.pdb

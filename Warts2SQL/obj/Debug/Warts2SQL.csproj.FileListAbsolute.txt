@@ -1,0 +1,8 @@
+E:\LinuxHolder\t1p\Warts2SQL\bin\Debug\Warts2SQL.exe.config
+E:\LinuxHolder\t1p\Warts2SQL\bin\Debug\Warts2SQL.exe
+E:\LinuxHolder\t1p\Warts2SQL\bin\Debug\Warts2SQL.pdb
+E:\LinuxHolder\t1p\Warts2SQL\obj\Debug\Warts2SQL.exe
+E:\LinuxHolder\t1p\Warts2SQL\obj\Debug\Warts2SQL.pdb
+E:\LinuxHolder\t1p\Warts2SQL\bin\Debug\libglpk-cli.dll
+E:\LinuxHolder\t1p\Warts2SQL\obj\Debug\Warts2SQL.csprojResolveAssemblyReference.cache
+E:\LinuxHolder\t1p\Warts2SQL\bin\Debug\System.Json.dll

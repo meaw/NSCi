@@ -1,0 +1,6 @@
+E:\LinuxHolder\t1p\AgregateLinkTiminngs\bin\Debug\AgregateLinkTiminngs.exe.config
+E:\LinuxHolder\t1p\AgregateLinkTiminngs\bin\Debug\AgregateLinkTiminngs.exe
+E:\LinuxHolder\t1p\AgregateLinkTiminngs\bin\Debug\AgregateLinkTiminngs.pdb
+E:\LinuxHolder\t1p\AgregateLinkTiminngs\obj\Debug\AgregateLinkTiminngs.csprojResolveAssemblyReference.cache
+E:\LinuxHolder\t1p\AgregateLinkTiminngs\obj\Debug\AgregateLinkTiminngs.exe
+E:\LinuxHolder\t1p\AgregateLinkTiminngs\obj\Debug\AgregateLinkTiminngs.pdb

@@ -1,0 +1,6 @@
+E:\LinuxHolder\t1p\GraphHelpers\bin\Debug\GraphHelpers.exe.config
+E:\LinuxHolder\t1p\GraphHelpers\bin\Debug\GraphHelpers.exe
+E:\LinuxHolder\t1p\GraphHelpers\bin\Debug\GraphHelpers.pdb
+E:\LinuxHolder\t1p\GraphHelpers\obj\Debug\GraphHelpers.exe
+E:\LinuxHolder\t1p\GraphHelpers\obj\Debug\GraphHelpers.pdb
+E:\LinuxHolder\t1p\GraphHelpers\obj\Debug\GraphHelpers.csprojResolveAssemblyReference.cache

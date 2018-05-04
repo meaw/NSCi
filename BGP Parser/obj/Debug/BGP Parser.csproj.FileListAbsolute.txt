@@ -1,0 +1,6 @@
+E:\LinuxHolder\t1p\BGP Parser\bin\Debug\BGP Parser.exe.config
+E:\LinuxHolder\t1p\BGP Parser\bin\Debug\BGP Parser.exe
+E:\LinuxHolder\t1p\BGP Parser\bin\Debug\BGP Parser.pdb
+E:\LinuxHolder\t1p\BGP Parser\obj\Debug\BGP Parser.csprojResolveAssemblyReference.cache
+E:\LinuxHolder\t1p\BGP Parser\obj\Debug\BGP Parser.exe
+E:\LinuxHolder\t1p\BGP Parser\obj\Debug\BGP Parser.pdb
